@@ -42,7 +42,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2012
     author = "Fastbyte01"               # Author's name
-    subtitle = "A Blog Site"       # Subtitle
+    subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
