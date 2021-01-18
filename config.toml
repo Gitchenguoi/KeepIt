@@ -41,8 +41,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Blog"       # Subtitle
+    author = "chenguozi"               # Author's name
+    subtitle = "一个简单的博客"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
