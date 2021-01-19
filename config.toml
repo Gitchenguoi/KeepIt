@@ -83,10 +83,10 @@ Twitter = "xxxx"
 owner = ""
 repo = ""
 [params.valine]
-appId = "your appId"
-appKey = "your appKey"
+appId = "r1jcGVLn3th5HVOr026xvgFz-gzGzoHsz"
+appKey = "VIKiobrzlx8wyjzES6i2oEvn"
 avatar = "mm"
-enable = false
+enable = enable
 language = "en"
 notify = false
 placeholder = "your comments ..."
