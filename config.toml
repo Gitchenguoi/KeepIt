@@ -1,6 +1,6 @@
 baseURL = "https://chenguozi.netlify.app/"
 defaultContentLanguage = "en"
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
