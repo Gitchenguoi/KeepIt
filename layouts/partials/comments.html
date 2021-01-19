@@ -1,5 +1,4 @@
-
-
+{{ if and .IsPage (ne .Params.comment false) -}}
       <!-- gitalk Comment System-->
       {{- if .Site.Params.gitalk.owner -}}
       <div id="gitalk-container"></div>
