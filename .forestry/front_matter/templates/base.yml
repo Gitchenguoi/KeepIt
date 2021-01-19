@@ -64,3 +64,5 @@ fields:
       path: 
   label: 系列
   description: 博文的系列
+pages:
+- content/fristblog-test1.md
