@@ -1,7 +1,6 @@
 +++
 author = "francis"
 data = 2021-01-19T16:00:00Z
-draft = true
 series = "单片机"
 title = "fristblog"
 type = "post"
