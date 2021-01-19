@@ -89,7 +89,7 @@ avatar = "mm"
 enable = true
 language = "zh-CN"
 notify = false
-placeholder = "your comments ..."
+placeholder = "说点什么吧 ..."
 verify = false
 visitor = true
 [sitemap]
